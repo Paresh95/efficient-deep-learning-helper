@@ -8,4 +8,7 @@
 - Prefix tuning
 - IA3
 - Accelerate for PyTorch
-    - https://huggingface.co/docs/accelerate/index
+    - https://huggingface.co/docs/accelerate/
+- Deepseed
+- Fully sharded data parallel
+- Mixed-precision
