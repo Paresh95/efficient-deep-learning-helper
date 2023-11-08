@@ -7,9 +7,9 @@
 - P-tuning
 - Prefix tuning
 - IA3
-- Accelerate for PyTorch
-    - https://huggingface.co/docs/accelerate/
-- Deepseed
+- Distributed deep learning
+    - Accelerate for PyTorch: https://huggingface.co/docs/accelerate/
+    - Deepspeed
 - Fully sharded data parallel
 - Mixed-precision
 - Flash attention
