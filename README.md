@@ -12,3 +12,6 @@
 - Deepseed
 - Fully sharded data parallel
 - Mixed-precision
+- Flash attention
+- bits and bytes: https://huggingface.co/blog/4bit-transformers-bitsandbytes
+- Attention sinks: https://huggingface.co/blog/tomaarsen/attention-sinks
